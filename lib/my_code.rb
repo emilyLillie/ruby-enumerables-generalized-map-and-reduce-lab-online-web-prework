@@ -8,3 +8,4 @@ while i < array.length
 end
 return new_array
 end
+
